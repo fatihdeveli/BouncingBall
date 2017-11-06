@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "271064426374",
+    "firebase_url": "https://bouncing-ball-5cdc7.firebaseio.com",
+    "project_id": "bouncing-ball-5cdc7",
+    "storage_bucket": "bouncing-ball-5cdc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271064426374:android:a8041d8a0cc2c870",
+        "android_client_info": {
+          "package_name": "com.bb.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271064426374-2g700nj38rl6gad32s11oo9o09f2n4mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bb.game",
+            "certificate_hash": "021B9E07505FBC096997EAC43AE70EC5B76288BB"
+          }
+        },
+        {
+          "client_id": "271064426374-vn76eevi4gtmr2l3sjvblvdi8k4vtpai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbLpltOUS0mLDJFw1IbmobhOOhoi4e2jw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
