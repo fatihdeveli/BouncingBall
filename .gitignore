@@ -4,6 +4,11 @@
 *.war
 *.ear
 hs_err_pid*
+# Package Files #
+*.jar
+*.zip
+*.tar.gz
+*.rar
 
 ## Robovm
 /ios/robovm-build/
@@ -30,6 +35,27 @@ www-test/
 *.iml
 /android/out/
 com_crashlytics_export_strings.xml
+# Built application files
+*.apk
+# Generated files
+bin/
+gen/
+out/
+# Android Studio Navigation editor temp files
+.navigation/
+# Android Studio captures folder
+captures/
+# Intellij
+.idea/tasks.xml
+.idea/dictionaries
+# Android Studio
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+*~
+
+
 
 ## Eclipse
 
