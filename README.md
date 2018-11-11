@@ -1,3 +1,4 @@
 # BouncingBall
 
-https://play.google.com/store/apps/details?id=com.bb.game&hl=en
+This repository contains the source code for the term project of the course Object Oriented Software Development, which later
+evolved into a simple Android game.
